@@ -1,0 +1,9 @@
+body{
+background-color: rgb(93, 193, 240);
+color: #9ce4ba;
+img {
+    width: 800px; /* Ou use porcentagem, ex: 50% */
+    height: auto; /* Mantém a proporção original */
+}
+
+}
